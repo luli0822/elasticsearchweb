@@ -1,0 +1,12 @@
+version: 1.0
+
+# Protocols
+protocol: http
+
+# server host and port
+server: 127.0.0.1
+port: 9200
+
+# elasticsearch
+credentials:
+    elastic: elastic
