@@ -1,3 +1,14 @@
 Welcome to Elasticsearch Sample Web
 -------------------------------
 This repo is a simple web application that processes CRUD operations towards to an Elasticsearch server where you can set it via YAML file.
+
+To run the application, there're a couple of ways, use the following commands in your terminal after going under the folder "/elasticsearchweb",
+
+Option 1. mvn spring-boot:run (you need to install maven tool on your machine)
+
+Option 2. java -jar target/sampleelasticsearch-1.0-SNAPSHOT.jar (you need to install java)
+
+
+To to the integration testing for the application, use the following command in your terminal after going under the folder "/elasticsearchweb":
+$ mvn test
+
