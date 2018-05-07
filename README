@@ -1,0 +1,3 @@
+Welcome to Elasticsearch Sample Web
+-------------------------------
+This repo is a simple web application that processes CRUD operations towards to an Elasticsearch server where you can set it via YAML file.
