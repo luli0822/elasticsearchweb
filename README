@@ -15,7 +15,10 @@ To to the integration testing for the application, use the following command in 
 $ mvn test
 
 Future TODOs
-1. Replace Vaadin UI with Angular or React framework as these frontend frameworks are more scalable and decoupled way that integrates with Restful services, especially thinking of microservice architecture.
 
-2. Provide a way to update yaml file via input params for configuring remote Elasticsearch server and host when launching the application.
+1. The UI is still not working properly due to tight timeline and needs to be fixed soon.
+
+2. Consider replacing Vaadin UI with Angular or React framework as these frontend frameworks are more scalable and decoupled way that integrates with Restful services, especially thinking of microservice architecture.
+
+3. Provide a way to update yaml file via input params for configuring remote Elasticsearch server and host when launching the application.
 
