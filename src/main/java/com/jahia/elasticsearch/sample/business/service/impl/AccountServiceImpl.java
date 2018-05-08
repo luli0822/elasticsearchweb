@@ -6,7 +6,6 @@ import com.jahia.elasticsearch.sample.business.service.AccountService;
 import com.jahia.elasticsearch.sample.rest.data.Account;
 import java.util.Map;
 
-import org.apache.lucene.util.QueryBuilder;
 import org.elasticsearch.action.ActionResponse;
 import org.elasticsearch.action.DocWriteRequest;
 import org.elasticsearch.action.delete.DeleteRequest;
