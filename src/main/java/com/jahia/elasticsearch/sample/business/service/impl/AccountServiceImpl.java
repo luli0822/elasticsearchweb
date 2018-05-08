@@ -1,7 +1,6 @@
 package com.jahia.elasticsearch.sample.business.service.impl;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.jahia.elasticsearch.sample.business.repository.AccountRepository;
 import com.jahia.elasticsearch.sample.business.service.AccountService;
 import com.jahia.elasticsearch.sample.rest.data.Account;
 import java.util.Map;
@@ -20,7 +19,7 @@ import org.springframework.stereotype.Service;
 
 
 /**
- * Service implementation class. Reference to {@link AccountRepository}
+ * Service implementation class.
  */
 @Service
 public class AccountServiceImpl implements AccountService  {

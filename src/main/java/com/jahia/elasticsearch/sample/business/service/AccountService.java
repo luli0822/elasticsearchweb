@@ -1,9 +1,6 @@
 package com.jahia.elasticsearch.sample.business.service;
 
 import com.jahia.elasticsearch.sample.rest.data.Account;
-
-import java.util.List;
-
 import org.elasticsearch.action.ActionResponse;
 
 /**
